@@ -17,6 +17,8 @@ _mailinglist
 docs/_build/
 __pycache__
 .env_file
+venv/
+personal_access_token*
 
 # Coverage reports
 htmlcov/
